@@ -7,7 +7,7 @@ import ViewProducts from './Components/ViewProducts';
 function App() {
   return (
     <div>
-    <ViewProducts/>
+    
     </div>
   );
 }
